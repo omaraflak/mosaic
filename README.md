@@ -19,3 +19,7 @@ mosaic.make_mosaic(
 ```
 
 To make a grayscale mosaic, you can use `import gray_mosaic; gray_mosaic.make_mosaic(...)` that's much faster.
+
+# Get some tiles
+
+Use the `download.py` script.
