@@ -26,4 +26,4 @@ Use the `download.py` script.
 
 # Example
 
-![image](mosaic/blob/master/lion.jpeg)
+![image](lion.jpeg)
