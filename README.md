@@ -23,3 +23,7 @@ To make a grayscale mosaic, you can use `import gray_mosaic; gray_mosaic.make_mo
 # Get some tiles
 
 Use the `download.py` script.
+
+# Example
+
+![image](mosaic/blob/master/lion.jpeg)
